@@ -1,0 +1,3 @@
+Python is a beginner friendly programming language.
+C is much quicker than Python.
+Sequential vs Functional Programming is a choice you have to make.
