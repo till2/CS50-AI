@@ -1,5 +1,5 @@
 # This is CS50-AI!
-## _... one of the best courses out there to get started within the realm of AI and this is my project repo._
+### ... _one of the best courses to get started within the realm of AI and this is my project repo!_
 
 If you are taking the course right now, please do not copy code. Other than that, feel free to experiment and modify anything here.
 
@@ -7,14 +7,14 @@ If you are taking the course right now, please do not copy code. Other than that
 
 | File | Desc |
 | ------ | ------ |
-| Crossword | ![](https://github.com/till2/CS50-AI/blob/main/crossword/) |
-| Heredity | XXX |
-| Knights | XXX |
-| Minesweeper | XXX |
-| Nim | XXX |
-| Pagerank | XXX |
-| Parser | XXX |
-| Questions | XXX |
-| Shopping | XXX |
-| TicTacToe | XXX |
-| Traffic | XXX |
+| ![Crossword](crossword/crossword.md) | XXX |
+| ![Heredity](heredity/) | Heredity |
+| ![Knights](Knights/) | Knights |
+| ![Minesweeper](Minesweeper/) | Minesweeper |
+| ![Nim](Nim/) | Nim |
+| ![Pagerank](Pagerank/) | Pagerank |
+| ![Parser](Parser/) | Parser |
+| ![Questions](Questions/) | Questions |
+| ![Shopping](Shopping/) | Shopping |
+| ![TicTacToe](TicTacToe/) | TicTacToe |
+| ![Traffic](Traffic/) | Traffic |
