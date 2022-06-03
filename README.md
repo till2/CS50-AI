@@ -7,7 +7,7 @@ If you are taking the course right now, please do not copy code. Other than that
 
 | File | Desc |
 | ------ | ------ |
-| ![Crossword](crossword/crossword.md) | XXX |
+| ![Crossword](crossword/) | XXX |
 | ![Heredity](heredity/) | Heredity |
 | ![Knights](Knights/) | Knights |
 | ![Minesweeper](Minesweeper/) | Minesweeper |
