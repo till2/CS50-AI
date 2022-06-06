@@ -7,14 +7,15 @@ If you are taking the course, please do not copy any code. Other than that, feel
 
 | File | Desc |
 | ------ | ------ |
-| ![Crossword](crossword/) | XXX |
-| ![Heredity](heredity/) | Heredity |
-| ![Knights](knights/) | Knights |
-| ![Minesweeper](minesweeper/) | Minesweeper |
-| ![Nim](nim/) | Nim |
-| ![Pagerank](pagerank/) | Pagerank |
-| ![Parser](parser/) | Parser |
-| ![Questions](questions/) | Questions |
-| ![Shopping](shopping/) | Shopping |
-| ![TicTacToe](tictactoe/) | TicTacToe |
-| ![Traffic](traffic/) | Traffic |
+| ![Crossword](crossword/) | Constraint-Satisfaction-Problem: Generating a Crossword Puzzle |
+| ![Heredity](heredity/) | Analyzing gene likelihoods in family trees |
+| ![Knights](knights/) | Fun logic puzzles, Model checking |
+| ![Minesweeper](minesweeper/) | Using logical inference on a knowledge base for playing Minesweeper |
+| ![Nim](nim/) | Training a Reinforcement-Learning Agent to play the game NIM |
+| ![Pagerank](pagerank/) | Ranking websites importance with Googles Pagerank algorithm |
+| ![Degrees](degrees.py) | ![Finds the shortest connection between two actors](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) |
+| ![Parser](parser/) | extracting noun-phrases from sentences |
+| ![Questions](questions/) | Ranking answers for queries using TF-IDF values within text documents (NLP) |
+| ![Shopping](shopping/) | Training a K-Nearest-Neighbors Classifier for predicting purchases |
+| ![TicTacToe](tictactoe/) | Solving TicTacToe with Minimax Search and Alpha Beta Pruning |
+| ![Traffic](traffic/) | Training a Convolutional Neural Network to classify images of street signs |
