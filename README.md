@@ -1,5 +1,4 @@
-# This is CS50-AI!
-### ... _one of the best courses to get started within the realm of AI and this is my project repo!_
+# Project Repo for CS50-AI
 
 If you are taking the course, please do not copy any code. Other than that, feel free to experiment and modify anything here.
 
