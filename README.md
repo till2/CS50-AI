@@ -13,7 +13,7 @@ If you are taking the course, please do not copy any code. Other than that, feel
 | ![Minesweeper](minesweeper/) | Using logical inference on a knowledge base for playing Minesweeper |
 | ![Nim](nim/) | Training a Reinforcement-Learning Agent to play the game NIM |
 | ![Pagerank](pagerank/) | Ranking websites importance with Googles Pagerank algorithm |
-| ![Degrees](degrees.py) | ![Finds the shortest connection between two actors](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) |
+| ![Degrees](degrees.py) | BFS for finding the shortest connection between two actors |
 | ![Parser](parser/) | extracting noun-phrases from sentences |
 | ![Questions](questions/) | Ranking answers for queries using TF-IDF values within text documents (NLP) |
 | ![Shopping](shopping/) | Training a K-Nearest-Neighbors Classifier for predicting purchases |
