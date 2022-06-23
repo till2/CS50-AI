@@ -23,3 +23,9 @@ Other than that, feel free to experiment and modify anything here!
 | ![Shopping](shopping/) | Training a K-Nearest-Neighbors Classifier for predicting purchases |
 | ![TicTacToe](tictactoe/) | Solving TicTacToe with Minimax Search and Alpha Beta Pruning |
 | ![Traffic](traffic/) | Training a Convolutional Neural Network to classify images of street signs |
+
+## Example
+
+<img src="https://github.com/till2/CS50-AI/blob/main/traffic-project-img?raw=true" width="730" height="500"/>
+
+One of the many projects, classifying images of street signs. [traffic project]
