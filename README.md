@@ -1,6 +1,11 @@
 # Project Repo for CS50-AI
 
-If you are taking the course, please do not copy any code. Other than that, feel free to experiment and modify anything here.
+<img src="https://github.com/till2/CS50-AI/blob/main/robot-img2?raw=true" width="450" height="450"/>
+
+
+If you are taking the course, please do not copy any code. 
+
+Other than that, feel free to experiment and modify anything here!
 
 ## Projects
 
